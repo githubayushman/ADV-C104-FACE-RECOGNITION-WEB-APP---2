@@ -1,0 +1,2 @@
+https://teachablemachine.withgoogle.com/models/EV_5qlu3r/
+pROJECTS=https://teachablemachine.withgoogle.com/models/RRLhSoMIz/
